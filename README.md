@@ -2,11 +2,11 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.0.7.
 
-## Copilot instructions
+## AI Agent Guidelines
 
-This repository includes a Copilot instructions file at `.github/copilot-instructions.md`. It defines the coding standards, architecture conventions, and best practices that Copilot should follow when generating or editing code in this project.
+This repository includes a pre-configured instructions file at `.github/copilot-instructions.md` (and `AGENTS.md`). It defines strict coding standards, modern Angular v22+ architecture conventions, and best practices for AI coding assistants (GitHub Copilot, Cursor, Devin, Claude).
 
-Use this file as a guide for Angular structure, TypeScript style, routing, component conventions, and testing expectations.
+Use these guidelines as the source of truth for Angular structure, TypeScript style, routing, component conventions, and testing expectations.
 
 ## Development server
 

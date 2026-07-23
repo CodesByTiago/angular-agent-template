@@ -2,6 +2,12 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 22.0.7.
 
+## Copilot instructions
+
+This repository includes a Copilot instructions file at `.github/copilot-instructions.md`. It defines the coding standards, architecture conventions, and best practices that Copilot should follow when generating or editing code in this project.
+
+Use this file as a guide for Angular structure, TypeScript style, routing, component conventions, and testing expectations.
+
 ## Development server
 
 To start a local development server, run:
